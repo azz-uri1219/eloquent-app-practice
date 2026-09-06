@@ -1,3 +1,31 @@
+# eloquent-app-practice
+
+## 概要
+
+COACHTECH 教材 Tutorial 9-4「Eloquent ORM ハンズオン演習」で作成した成果物です。
+
+- eloquentモデルを作成し、データベースを操作するもの
+- bladeファイル上においてもテーブルの閲覧だけでなく、テーブルの編集、更新が可能。
+
+## 使用技術
+
+- PHP 8.x
+- Laravel 10.x
+- Eloquent ORM
+- MySQL
+- GitHub
+
+## 学んだこと
+
+- Eloquen モデルを使ったCRUD操作の手順
+- マイグレーションファイルの役割の再確認
+- 今回のプログラムにおけるそれぞれのファイルがMVCアーキテクチャで、どの役割を担っているか。
+- Visual Studio Codeにおいてエラーが表示されても、プログラムが問題なく動作することがある。
+
+## 動作確認
+
+- http://localhost/posts にアクセス
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
